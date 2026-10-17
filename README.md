@@ -1,4 +1,4 @@
-# Hi, I'm Alfred Leitao👋
+# Hi, I'm Richard Leitao👋
 
 I am an aspiring Full-Stack Software Developer focused on building clean, responsive, and reliable web applications.
 
