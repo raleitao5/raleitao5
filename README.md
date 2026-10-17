@@ -46,4 +46,4 @@ I am an aspiring Full-Stack Software Developer focused on building clean, respon
 
 ### 📫 Connect with Me
 
-* **Email:** [quadruple050@gmail.com](mailto:quadruple050@gmail.com)
+* **Email:** [RAlfredoLeitao@gmail.com](mailto:ralfredoleitao@gmail.com)
